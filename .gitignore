@@ -1,0 +1,3 @@
+# Project exclude paths
+/outbox-starter-autoconfigure/target/
+/outbox-starter-core/target/
